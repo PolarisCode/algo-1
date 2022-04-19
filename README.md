@@ -128,7 +128,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
     - [Squaring a sorted array](gtci/square_sorted_array_test.go)
     - [Dutch national flag problem](gtci/dutch_flag_test.go)
   - Fast and slow pointers
-    - [Linked list cycle](gtci/linked_list_cycle_test.go)
+    - [Linked list cycle](gtci/linked_list_cycle_test.go)`done`
     - [Start of a linked list cycle](gtci/cycle_start_test.go)
     - [Happy number](gtci/happy_number_test.go)
     - [Middle of a linked list](gtci/middle_list_test.go)
