@@ -141,7 +141,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
     - [Conflicting appointment](gtci/conflict_appointment_test.go)
   - Cyclic sort
     - [Cyclic sort](gtci/cyclic_sort_test.go) `done`
-    - [Missing number](gtci/missing_number_test.go)
+    - [Missing number](gtci/missing_number_test.go) `done`
     - [Missing numbers](gtci/missing_numbers_test.go)
     - [Find duplicate](gtci/duplicate_test.go)
     - [Find duplicates](gtci/duplicates_test.go)
