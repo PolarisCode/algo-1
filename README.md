@@ -149,7 +149,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
   - In-place reversal of a linked list
     - [Reverse a linked list](gtci/reverse_list_test.go) `done`
   - Tree breadth first search
-    - [Binary tree level order traversal](gtci/level_order_traversal_test.go)
+    - [Binary tree level order traversal](gtci/level_order_traversal_test.go) `done`
     - [Reverse level order traversal](gtci/reverse_level_order_traversal_test.go)
     - [Zigzag traversal](gtci/zigzag_traversal_test.go)
     - [Level averages](gtci/level_avg_test.go)
