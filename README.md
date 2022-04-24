@@ -148,7 +148,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
     - [Find corrupt pair](gtci/corrupt_pair_test.go)
   - In-place reversal of a linked list
     - [Reverse a linked list](gtci/reverse_list_test.go) `done`
-  - Tree breath first search
+  - Tree breadth first search
     - [Binary tree level order traversal](gtci/level_order_traversal_test.go)
     - [Reverse level order traversal](gtci/reverse_level_order_traversal_test.go)
     - [Zigzag traversal](gtci/zigzag_traversal_test.go)
