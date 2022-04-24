@@ -135,7 +135,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
     - [Palindrome linked list](gtci/palindrome_list_test.go)
     - [Reorder a linked list](gtci/reorder_list_test.go)
   - Merge intervals
-    - [Merge intervals](gtci/merge_intervals_test.go)
+    - [Merge intervals](gtci/merge_intervals_test.go) `done`
     - [Insert interval](gtci/insert_interval_test.go)
     - [Intervals intersection](gtci/intervals_intersection_test.go)
     - [Conflicting appointment](gtci/conflict_appointment_test.go)
