@@ -114,7 +114,7 @@ list here →](https://mailchi.mp/579f9d6927dd/hoanhanco)
   - Sliding Window
     - [Average of any contiguous subarray of size k](gtci/avg_subarray_test.go)
     - [Maximum sum of any contiguous subarray of size k](gtci/max_subarray_test.go)
-    - [Smallest subarray with a given sum](gtci/smallest_subarray_test.go)
+    - [Smallest subarray with a given sum](gtci/smallest_subarray_test.go) `done`
     - [Longest substring with k distinct characters](gtci/longest_substring_k_distinct_test.go)
     - [Fruits into baskets](gtci/fruits_baskets_test.go)
     - [Longest substring without repeating characters](gtci/no_repeat_substring_test.go)
